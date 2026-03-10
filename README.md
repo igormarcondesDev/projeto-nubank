@@ -67,7 +67,7 @@ Projeto de página de apresentação desenvolvido para praticar a criação de *
 
 O portfólio pode ser visualizado online através do **GitHub Pages**.
 
-🔗  https://igormarcondesdev.github.io/portfolio/
+🔗  
 
 ---
 
