@@ -2,8 +2,6 @@
 
 ## 🌐 Portfólio de Desenvolvimento Web
 
-Bem-vindo ao meu portfólio!
-
 Este repositório reúne projetos desenvolvidos durante meus estudos em **Desenvolvimento Web**, com foco na criação de **interfaces modernas, responsivas e bem estruturadas** utilizando **HTML, CSS e JavaScript**.
 
 O objetivo deste portfólio é demonstrar minha evolução como desenvolvedor, aplicando na prática conceitos fundamentais de desenvolvimento **Front-End**.
