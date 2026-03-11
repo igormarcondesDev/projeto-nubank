@@ -84,6 +84,16 @@ Os principais objetivos são:
 
 ---
 
+# 💡 Habilidades
+
+- Estruturação semântica com HTML5
+- Layout responsivo com CSS3
+- Flexbox
+- Organização de projetos
+- Boas práticas de front-end
+
+---
+
 # 📈 Evolução
 
 Este repositório será atualizado constantemente com:
