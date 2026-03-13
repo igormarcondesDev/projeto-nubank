@@ -2,21 +2,19 @@
 
 ## 🌐 Portfólio de Desenvolvimento Web
 
-Bem-vindo ao meu portfólio!
+Desenvolvedor Front-End em formação, focado na criação de interfaces modernas, responsivas e bem estruturadas utilizando **HTML, CSS e JavaScript**.
 
-Este repositório reúne projetos desenvolvidos durante meus estudos em **Desenvolvimento Web**, com foco na criação de **interfaces modernas, responsivas e bem estruturadas** utilizando **HTML, CSS e JavaScript**.
-
-O objetivo deste portfólio é demonstrar minha evolução como desenvolvedor, aplicando na prática conceitos fundamentais de desenvolvimento **Front-End**.
+Este repositório reúne projetos desenvolvidos durante meus estudos em **Desenvolvimento Web**, demonstrando minha evolução prática na construção de interfaces e layouts responsivos.
 
 ---
 
 # 🚀 Tecnologias Utilizadas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
 ---
 
@@ -81,6 +79,16 @@ Os principais objetivos são:
 - 💻 Desenvolver **interfaces modernas e responsivas**
 - 🚀 Demonstrar minha **evolução técnica através de projetos práticos**
 - 👨‍💻 Servir como **apresentação profissional para recrutadores e oportunidades na área de tecnologia**
+
+---
+
+# 💡 Habilidades
+
+- Estruturação semântica com HTML5
+- Layout responsivo com CSS3
+- Flexbox
+- Organização de projetos
+- Boas práticas de front-end
 
 ---
 
